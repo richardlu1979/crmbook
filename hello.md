@@ -13,4 +13,5 @@ issue-101
 agin agin ue ue.....NND 丢了数据啊，太TMD苦逼了。。。
 
 home update
+今天再实验了一次，哈哈哈，好像重启后好了
 
